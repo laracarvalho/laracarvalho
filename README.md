@@ -14,7 +14,7 @@
 
 <p algin="left">
 
-[Website](https://laracarvalhonet.com) | [Youtube channel](https://youtube.com/laracarvalhonet) | [LinkedIn](https://linkedin.com/in/laracarvalho) | [Instagram](https://instagram.com/laracarvalhonet)
+[Website](https://laracarvalho.net) | [Youtube channel](https://youtube.com/laracarvalhonet) | [LinkedIn](https://linkedin.com/in/laracarvalho) | [Instagram](https://instagram.com/laracarvalhonet)
 </p>
 <br>
 
