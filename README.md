@@ -1,9 +1,9 @@
 
-<h1 >Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lara Carvalho</h1>
+<h1 >Hi, I'm Lara Carvalho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 Mid-level (Pleno) Web Developer & Instructor focused on helping others join the programming universe
 
-- 🔭 I’m currently working at [Climatempo](https://climatempo.com.br)
+- 🔭 I’m currently working @ [Climatempo](https://climatempo.com.br) as Fullstack Developer
   
 - ▶️ I post educational videos on [youtube.com/laracarvalhonet](https://youtube.com/laracarvalhonet)
   
