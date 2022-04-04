@@ -3,7 +3,7 @@
 
 - 🔥 Mid-level (Pleno) Web Developer & Instructor focused on helping others join the programming universe
 
-- 🔭 I’m currently working at [Dissonant Studio](https://dissonantstudio.com.br)
+- 🔭 I’m currently working at [Climatempo](https://climatempo.com.br)
   
 - ▶️ I post educational videos on [youtube.com/laracarvalhonet](https://youtube.com/laracarvalhonet)
   
