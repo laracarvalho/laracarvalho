@@ -1,5 +1,5 @@
 
-<h1 >Hi, I'm Lara Carvalho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 >Hi, I'm Lara Carvalho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"></h1>
 
 - 🔥 5+ Experienced Backend Developer & Instructor focused on helping others join the programming universe
 
