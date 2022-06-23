@@ -8,8 +8,8 @@
 - ▶️ I post educational videos on [youtube.com/laracarvalhonet](https://youtube.com/laracarvalhonet)
   
 <p algin="right">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=laracarvalho&show_icons=true&theme=vision-friendly-dark" alt="laracarvalho's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracarvalho&layout=compact&theme=vision-friendly-dark" alt="laracarvalho's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=laracarvalho&show_icons=true&theme=vision-friendly-dark" alt="laracarvalho's stats"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracarvalho&layout=compact&theme=vision-friendly-dark" alt="laracarvalho's most languages"/>
   </p>
 
 <p algin="left">
