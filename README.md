@@ -2,8 +2,6 @@
 <h1>Hi, I'm Lara Carvalho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 
 - 🔥 5+ years Experienced Backend Developer & Instructor focused on helping others join the programming universe
-
-- 🔭 I’m currently working @ [Climatempo](https://climatempo.com.br) as Fullstack Developer
   
 - ▶️ I post educational videos on [youtube.com/laracarvalhonet](https://youtube.com/laracarvalhonet)
   
