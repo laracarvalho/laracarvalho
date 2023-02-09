@@ -1,15 +1,10 @@
 
 <h1>Hi, I'm Lara Carvalho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 
-- 🔥 5+ years Experienced Backend Developer & Instructor focused on helping others join the programming universe
+- 🔥 6+ years experienced Backend Developer & Instructor focused on helping others join the programming universe.
   
 - ▶️ I post educational videos on [youtube.com/laracarvalhonet](https://youtube.com/laracarvalhonet)
   
-<p algin="right">
-<img width="450em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app)/api?username=laracarvalho&show_icons=true&theme=vision-friendly-dark" alt="laracarvalho's stats"/>
-<img width="380em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app)/api/top-langs/?username=laracarvalho&layout=compact&theme=vision-friendly-dark" alt="laracarvalho's most languages"/>
-  </p>
-
 <p algin="left">
 
 [Website](https://laracarvalho.net) | [Youtube channel](https://youtube.com/laracarvalhonet) | [LinkedIn](https://linkedin.com/in/laracarvalho) | [Instagram](https://instagram.com/laracarvalhonet)
