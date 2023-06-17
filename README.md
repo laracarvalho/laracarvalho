@@ -18,7 +18,7 @@ const Stack = {
   javascript: ['NodeJS', 'Typescript', 'NestJS'],
   frontend: ['React', 'NextJS', 'Angular'],
   python: ['FastAPI', 'Django', 'Flask'],
-  golang: ['Martini', 'Gin'],
+  golang: ['Gin'],
   api: ['REST', 'GRPC', 'GraphQL'],
   cloud: ['AWS', 'GCP', 'Docker', 'Kubernetes']
 }
