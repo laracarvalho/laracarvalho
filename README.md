@@ -19,7 +19,7 @@ const Stack = {
   frontend: ['React', 'NextJS', 'Angular'],
   python: ['FastAPI', 'Django', 'Flask'],
   golang: ['Gin'],
-  api: ['REST', 'GRPC', 'GraphQL'],
+  api: ['REST', 'GRPC', 'GraphQL', 'RabbitMQ'],
   cloud: ['AWS', 'GCP', 'Docker', 'Kubernetes']
 }
 ```
