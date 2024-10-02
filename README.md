@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Lara Carvalho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 
-- 🔥 7+ years experienced Software Engineer currently @ Deel.
+- 🔥 8+ years experienced Software Engineer currently @ Deel.
   
 - ▶️ I post educational videos on [youtube.com/laracarvalhonet](https://youtube.com/laracarvalhonet)
   
